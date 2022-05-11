@@ -5,9 +5,10 @@ Data Science Challenge Shopify
 ****
 Code in main.py
 ****
+Data in 2019 Winter Data Science Intern Challenge Data Set
+***
 
-
-you can check Q and A in answers.pdf
+You can check Q and A in answers.pdf
 
 
 
